@@ -1,0 +1,20 @@
+c:\users\vinicius.brown\documents\visual studio 2013\Projects\Blocks\Blocks\bin\Debug\Blocks.exe.config
+c:\users\vinicius.brown\documents\visual studio 2013\Projects\Blocks\Blocks\bin\Debug\Blocks.exe
+c:\users\vinicius.brown\documents\visual studio 2013\Projects\Blocks\Blocks\bin\Debug\Blocks.pdb
+c:\users\vinicius.brown\documents\visual studio 2013\Projects\Blocks\Blocks\obj\Debug\Blocks.csprojResolveAssemblyReference.cache
+c:\users\vinicius.brown\documents\visual studio 2013\Projects\Blocks\Blocks\obj\Debug\Blocks.Properties.Resources.resources
+c:\users\vinicius.brown\documents\visual studio 2013\Projects\Blocks\Blocks\obj\Debug\Blocks.csproj.GenerateResource.Cache
+c:\users\vinicius.brown\documents\visual studio 2013\Projects\Blocks\Blocks\obj\Debug\Blocks.exe
+c:\users\vinicius.brown\documents\visual studio 2013\Projects\Blocks\Blocks\obj\Debug\Blocks.pdb
+c:\users\vinicius.brown\documents\visual studio 2013\Projects\Blocks\Blocks\obj\Debug\Blocks.AvailableBlocks.resources
+c:\users\vinicius.brown\documents\visual studio 2013\Projects\Blocks\Blocks\obj\Debug\Blocks.BlocksWindow.resources
+C:\Users\vinicius.brown\Desktop\Blocks\Blocks\bin\Debug\Blocks.exe.config
+C:\Users\vinicius.brown\Desktop\Blocks\Blocks\obj\Debug\Blocks.exe
+C:\Users\vinicius.brown\Desktop\Blocks\Blocks\obj\Debug\Blocks.pdb
+C:\Users\Vinicius.Brown\Desktop\Blocks\Blocks\bin\Debug\Blocks.exe
+C:\Users\Vinicius.Brown\Desktop\Blocks\Blocks\bin\Debug\Blocks.pdb
+C:\Users\Vinicius.Brown\Desktop\Blocks\Blocks\obj\Debug\Blocks.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius.Brown\Desktop\Blocks\Blocks\obj\Debug\Blocks.BlocksWindow.resources
+C:\Users\Vinicius.Brown\Desktop\Blocks\Blocks\obj\Debug\Blocks.AvailableBlocks.resources
+C:\Users\Vinicius.Brown\Desktop\Blocks\Blocks\obj\Debug\Blocks.Properties.Resources.resources
+C:\Users\Vinicius.Brown\Desktop\Blocks\Blocks\obj\Debug\Blocks.csproj.GenerateResource.Cache
