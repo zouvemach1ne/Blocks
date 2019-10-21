@@ -18,3 +18,6 @@ C:\Users\Vinicius.Brown\Desktop\Blocks\Blocks\obj\Debug\Blocks.BlocksWindow.reso
 C:\Users\Vinicius.Brown\Desktop\Blocks\Blocks\obj\Debug\Blocks.AvailableBlocks.resources
 C:\Users\Vinicius.Brown\Desktop\Blocks\Blocks\obj\Debug\Blocks.Properties.Resources.resources
 C:\Users\Vinicius.Brown\Desktop\Blocks\Blocks\obj\Debug\Blocks.csproj.GenerateResource.Cache
+C:\Users\Vinicius.Brown\Source\Repos\Blocks\Blocks\Blocks\bin\Debug\Blocks.exe.config
+C:\Users\Vinicius.Brown\Source\Repos\Blocks\Blocks\Blocks\obj\Debug\Blocks.exe
+C:\Users\Vinicius.Brown\Source\Repos\Blocks\Blocks\Blocks\obj\Debug\Blocks.pdb
